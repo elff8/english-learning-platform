@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\userprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\userprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\testcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\testcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\missingword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\missingword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\flashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\flashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\difficultylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\difficultylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\models\\answeroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\answeroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\controllers\\learningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\learningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\migrations\\20250402111938_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\migrations\\20250402111938_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\migrations\\20250514122410_adduserauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\migrations\\20250514122410_adduserauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|c:\\users\\wisp\\pycharmprojects\\aieng\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43E95505-EBE1-4F2F-B582-1341D1AD2C5B}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\UserProfiles.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\UserProfiles.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\UserProfiles.cs*",
+              "RelativeToolTip": "BackEnd\\Models\\UserProfiles.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:41:19.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MissingWord.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\MissingWord.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\MissingWord.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\MissingWord.cs*",
+              "RelativeToolTip": "BackEnd\\Models\\MissingWord.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:36:53.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Flashcard.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\Flashcard.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Flashcard.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\Flashcard.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Flashcard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:42:25.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\Category.cs*",
+              "RelativeToolTip": "BackEnd\\Models\\Category.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:25:04.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnswerOption.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\AnswerOption.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\AnswerOption.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\AnswerOption.cs",
+              "RelativeToolTip": "BackEnd\\Models\\AnswerOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:33:46.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\Question.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:15:41.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\Test.cs",
+              "RelativeToolTip": "BackEnd\\Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:35:12.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestCategory.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\TestCategory.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\TestCategory.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\TestCategory.cs",
+              "RelativeToolTip": "BackEnd\\Models\\TestCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:38:20.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\appsettings.json",
+              "RelativeToolTip": "BackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T08:11:22.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Program.cs*",
+              "RelativeToolTip": "BackEnd\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:41:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\DBContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BackEnd\\DBContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\DBContext\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "BackEnd\\DBContext\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:41:41.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LearningController.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Controllers\\LearningController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\LearningController.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Controllers\\LearningController.cs*",
+              "RelativeToolTip": "BackEnd\\Controllers\\LearningController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:39:26.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\User.cs*",
+              "RelativeToolTip": "BackEnd\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:11:21.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250402111938_CreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Migrations\\20250402111938_CreateDB.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Migrations\\20250402111938_CreateDB.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Migrations\\20250402111938_CreateDB.cs",
+              "RelativeToolTip": "BackEnd\\Migrations\\20250402111938_CreateDB.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:10:20.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DifficultyLevel.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\DifficultyLevel.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\DifficultyLevel.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Models\\DifficultyLevel.cs*",
+              "RelativeToolTip": "BackEnd\\Models\\DifficultyLevel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:02:13.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Helpers\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Helpers\\PasswordHelper.cs*",
+              "RelativeToolTip": "BackEnd\\Helpers\\PasswordHelper.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:20:44.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackEnd\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T09:33:58.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250514122410_AddUserAuth.cs",
+              "DocumentMoniker": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Migrations\\20250514122410_AddUserAuth.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Migrations\\20250514122410_AddUserAuth.cs",
+              "ToolTip": "C:\\Users\\wisp\\PycharmProjects\\AIEng\\Backend\\BackEnd\\Migrations\\20250514122410_AddUserAuth.cs",
+              "RelativeToolTip": "BackEnd\\Migrations\\20250514122410_AddUserAuth.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:24:14.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
