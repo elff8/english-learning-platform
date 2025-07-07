@@ -1,0 +1,182 @@
+body {
+  background-color:#9e73d3;
+}
+
+.home-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.home-container h1 {
+  font-size: 2.5rem;
+  color: #333;
+}
+
+.home-container p {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.home-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.home-buttons button {
+  padding: 10px 20px;
+  font-size: 1rem;
+}
+.profile-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.progress-info, .settings {
+  margin: 20px 0;
+}
+
+.settings select {
+  padding: 5px 10px;
+  font-size: 1rem;
+}
+.exercise-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+.answer-btn {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+.correct {
+  background-color: #28a745;
+  color: white;
+}
+
+.wrong {
+  background-color: #dc3545;
+  color: white;
+}
+
+.correct-message {
+  color: green;
+}
+
+.wrong-message {
+  color: red;
+}
+.progress-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 20px;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: #9e73d3;
+  border-radius: 10px;
+}
+/* Для экранов меньше 768px */
+@media (max-width: 768px) {
+  .home-buttons {
+    flex-direction: column;
+  }
+
+  .home-buttons button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .profile-container, .exercise-container, .progress-container {
+    padding: 15px;
+  }
+}
+/* Стили для основного контента */
+.content {
+  margin-left: 320px;
+  height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, #f5f0ff, #e0c3fc);
+}
+
+/* Контейнер для волн */
+.animated-waves {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 200%;
+  height: 200px;
+  background: url('data:image/svg+xml;utf8,<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg"><path d="M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z" fill="%23b388eb" /></svg>');
+  background-repeat: repeat-x;
+  animation: waveAnimation 12s linear infinite;
+  opacity: 0.5;
+  z-index: 0;
+}
+
+/* Движение волн */
+@keyframes waveAnimation {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Чтобы контент был поверх */
+.content > *:not(.animated-waves) {
+  position: relative;
+  z-index: 1;
+}
+
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+
+/* Стили для контента при закрытом сайдбаре */
+.sidebar.closed + .content {
+  margin-left: 0; /* Смещение обратно */
+}
+/*темнвя тема*/

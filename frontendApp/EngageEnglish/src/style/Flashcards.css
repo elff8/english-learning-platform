@@ -1,0 +1,176 @@
+/* Контейнер для карточки с кнопками слева и справа */
+.flashcard-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    max-width: 500px; /* Ограничиваем ширину */
+    margin: 0 auto; /* Центрируем */
+  }
+  
+/* Стиль для карточки */
+.flashcard {
+    width: 300px;
+    height: 350px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 0 20px; /* Добавляем отступы слева и справа */
+  }
+  
+  
+   /* Стиль для кнопок стрелок */
+   .nav-button {
+    background-color: #6d508d;
+    color: #ffffff;
+    border: none;
+    font-size: 2em;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding-top: 2px;
+    opacity: .7;
+  }
+  
+  .nav-button:hover {
+    background-color: #6d508d;
+    opacity: .9;
+  }
+  
+  .nav-button:disabled {
+    background-color: #e0e0e0;
+    cursor: not-allowed;
+  }
+  
+  .nav-button-left {
+    left: -60px; /* Расположим кнопку слева */
+  }
+  
+  .nav-button-right {
+    right: -60px; /* Расположим кнопку справа */
+  }
+  
+  /* Контейнер для ввода и кнопок после карточки */
+  .flashcard-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+/* Стиль для слова на карточке */
+.flashcard-word {
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .flashcard-input {
+    padding: 10px;
+    width: 100%; /* Ширина на всю доступную ширину контейнера */
+    max-width: 300px; /* Ограничиваем максимальную ширину */
+    font-size: 1em;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .flashcard-input:focus {
+    outline: none;
+  }
+  
+  /* Контейнер для кнопок "Проверить перевод" и "Я знаю это слово" */
+  .flashcard-buttons {
+    display: flex;
+    flex-direction: column; /* Располагаем кнопки вертикально */
+    align-items: center; /* Центрируем кнопки по горизонтали */
+    gap: 10px; /* Расстояние между кнопками */
+    margin-top: 10px; /* Отступ сверху */
+    width: 100%; /* Ширина контейнера равна ширине текстового поля */
+    max-width: 300px; /* Ограничиваем максимальную ширину */
+  }
+  
+  /* Кнопки для проверки и "Я знаю это слово" */
+  button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 5px;
+  }
+  
+  /* Кнопки */
+  .btn-check,
+  .btn-known,
+  .btn-show-translation {
+    background-color: #6d508d;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%; /* Ширина кнопок равна ширине контейнера */
+    text-align: center;
+  }
+
+.btn-check:hover,
+.btn-known:hover,
+.btn-show-translation:hover {
+  background-color: #8062a0;
+}
+
+  
+.btn-check:disabled,
+.btn-known:disabled,
+.btn-show-translation:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+  
+  
+/* Стиль для перевода на карточке */
+.flashcard-translation {
+    font-size: 1.2em;
+    color: #000000;
+    text-align: center;
+    margin-top: 10px;
+  }
+/* Сообщение о правильности перевода */
+.message {
+    font-size: 1.1em;
+    margin-top: 10px;
+    text-align: center;
+    background: none; /* Убираем фон */
+  }
+  
+  .message .correct {
+    color: green !important; /* Зеленый текст */
+    background-color: transparent !important; /* Убираем фон */
+  }
+  
+  .message .incorrect {
+    color: red !important; /* Красный текст */
+    background-color: transparent !important; /* Убираем фон */
+  }

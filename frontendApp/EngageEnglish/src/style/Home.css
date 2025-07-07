@@ -1,0 +1,110 @@
+
+:root {
+  --bg: #ffffff;
+  --text: #2d3748;
+  --subtitle: #4a5568;
+  --quote-bg: #f8f0ff;
+  --quote-border: #7b2cbf;
+  --button-bg: #7b2cbf;
+  --button-hover: #6a1b9a;
+  --stats-bg: #f0f0f0;
+  --stats-text: #2d3748;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #e0e0e0;
+  --subtitle: #a0a0a0;
+  --quote-bg: #1e1e1e;
+  --quote-border: #9f68ff;
+  --button-bg: #9f68ff;
+  --button-hover: #7a4dc9;
+  --stats-bg: #1a1a1a;
+  --stats-text: #e0e0e0;
+}
+
+.vertical-home {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  gap: 25px;
+}
+
+.vertical-header {
+  text-align: center;
+  padding: 40px 10px 20px;
+}
+
+.vertical-header h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.header-subtitle {
+  font-size: 1.1rem;
+  color: var(--subtitle);
+}
+
+.vertical-content {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.quote-section blockquote {
+  font-style: italic;
+  font-size: 1.2rem;
+  padding: 20px 25px;
+  border-left: 5px solid var(--quote-border);
+  background-color: var(--quote-bg);
+  border-radius: 8px;
+  color: var(--text);
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.vertical-button {
+  align-self: center;
+  background: var(--button-bg);
+  color: white;
+  border: none;
+  padding: 14px 40px;
+  font-size: 1.2rem;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background 0.3s;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(123, 44, 191, 0.5);
+}
+
+.vertical-button:hover {
+  background: var(--button-hover);
+}
+
+.stats-section {
+  background: var(--stats-bg);
+  color: var(--stats-text);
+  padding: 20px 30px;
+  border-radius: 12px;
+  text-align: left;
+}
+
+.stats-section h2 {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.stats-section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  color: var(--subtitle);
+  line-height: 1.6;
+  margin: 0;
+}
