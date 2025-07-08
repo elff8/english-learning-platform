@@ -34,7 +34,7 @@ namespace BackEnd.DBContext
 				.WithMany(d => d.Flashcards)
 				.HasForeignKey(f => f.DifficultyLevelId);
 
-			// 🔹 MissingWord связи
+			
 			modelBuilder.Entity<MissingWord>()
 				.HasOne(m => m.Category)
 				.WithMany(c => c.MissingWords)
@@ -45,7 +45,7 @@ namespace BackEnd.DBContext
 				.WithMany(d => d.MissingWords)
 				.HasForeignKey(m => m.DifficultyLevelId);
 
-			// 🔹 Test связи
+			
 			modelBuilder.Entity<Test>()
 				.HasOne(t => t.DifficultyLevel)
 				.WithMany(dl => dl.Tests)
@@ -56,13 +56,13 @@ namespace BackEnd.DBContext
 				.WithMany(c => c.Tests)
 				.HasForeignKey(t => t.TestCategoryId);
 
-			// 🔹 Question связи
+			
 			modelBuilder.Entity<Question>()
 				.HasOne(q => q.Test)
 				.WithMany(t => t.Questions)
 				.HasForeignKey(q => q.TestId);
 
-			// 🔹 AnswerOption связи
+			
 			modelBuilder.Entity<AnswerOption>()
 				.HasOne(a => a.Question)
 				.WithMany(q => q.AnswerOptions)
