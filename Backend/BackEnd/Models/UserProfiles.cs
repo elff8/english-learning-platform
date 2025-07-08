@@ -9,9 +9,9 @@ namespace BackEnd.Models
     public class UserProfiles
 	{
         public int Id { get; set; }
-        public int UserId { get; set; } // ID пользователя
-        public int CorrectAnswersCount { get; set; } // Количество правильных ответов для этой карточки
-        public bool IsLearned { get; set; } // Статус, выучено ли слово
+        public int UserId { get; set; } 
+        public int CorrectAnswersCount { get; set; }
+        public bool IsLearned { get; set; } 
     }
 
 }
